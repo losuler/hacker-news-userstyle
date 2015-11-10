@@ -77,9 +77,12 @@ table {
   background: transparent;
 }
 
-#hnmain > tbody > tr:last-child img,
-#hnmain > tbody > tr:last-child table {
+#hnmain > tbody > tr:last-child img {
   display: none;
+}
+
+#hnmain > tbody > tr:last-child table td {
+  background: transparent;
 }
 
 #hnmain > tbody > tr > td {
