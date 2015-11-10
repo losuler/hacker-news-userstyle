@@ -1,6 +1,6 @@
 # Modern HackerNews userstyles for Stylish
 
-It's not a secret that HackerNews is a bit... dated at this point. I love reading it, I love the links, but man it brings be back to the 90's. This userstyle aims to restyle the original interface with a more modern one.
+It's not a secret that HackerNews is a bit... dated at this point. I love reading it, I love the links, but man it brings me back to the 90's. This userstyle aims to restyle the original interface with a more modern one.
 
 ![](https://raw.githubusercontent.com/oskarkrawczyk/hackernews-userstyles/master/hackernews-screen.png)
 
