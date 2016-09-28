@@ -2,7 +2,7 @@
 
 It's not a secret that [HackerNews](https://news.ycombinator.com/) is a bit... dated at this point. I love reading it, I love the links, but man it brings me back to the 90's. This userstyle aims to restyle the original interface with a more modern one.
 
-![](https://github.com/andrewcodes/hackernews-userstyles/blob/master/hackernews-screen-2.png)
+![](https://github.com/andrewcodes/hackernews-userstyles/blob/master/hackernews-screen-3.png)
 
 ## Installation
 
