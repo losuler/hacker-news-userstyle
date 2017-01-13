@@ -114,7 +114,7 @@ table {
 }
 
 .votearrow:after {
-  content: "▲";
+  content: "â–²";
   display: block;
   background: #F06D3C;
   color: #fff;
