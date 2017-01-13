@@ -113,8 +113,8 @@ table {
   width: 100%;
 }
 
-.votearrow:after {
-  content: "â–²";
+ .votearrow:after {
+  content: "▲";
   display: block;
   background: #F06D3C;
   color: #fff;
