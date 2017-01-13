@@ -1,4 +1,4 @@
-This is a fork of https://github.com/oskarkrawczyk/hackernews-userstyles from @oskarkrawczyk.
+This is a fork of https://github.com/oskarkrawczyk/hackernews-userstyles from https://github.com/oskarkrawczyk.
 
 # Modern HackerNews userstyles for Stylish
 
