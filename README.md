@@ -1,3 +1,5 @@
+This is a fork of https://github.com/oskarkrawczyk/hackernews-userstyles from @oskarkrawczyk.
+
 # Modern HackerNews userstyles for Stylish
 
 It's not a secret that [HackerNews](https://news.ycombinator.com/) is a bit... dated at this point. I love reading it, I love the links, but man it brings me back to the 90's. This userstyle aims to restyle the original interface with a more modern one.
