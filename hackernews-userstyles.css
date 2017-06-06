@@ -144,8 +144,8 @@ table {
   padding: 16px 0 4px;
 }
 
-.athing .title {
-  width: 20px;
+.athing .title:first-child {
+  padding-left: 20px;
 }
 
 .athing .title a:link,
