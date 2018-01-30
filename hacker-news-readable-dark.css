@@ -79,7 +79,7 @@ table {
 }
 
 #hnmain > tbody > tr > td[bgcolor] > table tbody tr td .pagetop a:hover {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, .25);
   padding-bottom: 2px;
 }
 
@@ -137,7 +137,7 @@ table {
 }
 
 .athing + tr .subtext {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  border-bottom: 1px solid rgba(255, 255, 255, .1);
   padding-bottom: 16px;
 }
 
@@ -163,12 +163,11 @@ table {
   border-radius: 100%;
   display: inline-block;
   background: #3b3b3b;
-  border: 1px solid rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0);
   font-weight: 700;
   font-size: 12px;
   color: #8b8b8b;
   position: absolute;
-  /*top: 16px;*/
   left: 0;
 }
 
@@ -187,18 +186,18 @@ table {
 
 .subtext a:hover {
   text-decoration: none;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, .25);
   padding-bottom: 2px;
 }
 
 .comment-tree .default .comhead {
   font-size: 14px !important;
-  color: rgba(0,0,0,0.5);
+  color: rgba(0, 0, 0, 0.5);
 }
 
 .comment-tree .comment {
   font-size: 14px !important;
-  color: rgba(0,0,0,0.5);
+  color: rgba(0, 0, 0, 0.5);
   line-height: 1.42em;
 }
 
