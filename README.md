@@ -2,6 +2,8 @@
 
 It's not a secret that [Hacker News](https://news.ycombinator.com) is a bit... dated at this point. I love reading it, I love the links, but man it brings me back to the 90's. This userstyle aims to restyle the original interface with a more modern one.
 
+Forked from https://github.com/Gigacore/hackernews-userstyles.
+
 ![](hacker-news-readable-light.png)
 &nbsp;
 ![](hacker-news-readable-dark.png)
