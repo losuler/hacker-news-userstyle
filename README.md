@@ -11,6 +11,5 @@ Forked from https://github.com/Gigacore/hackernews-userstyles.
 ## Installation
 
 1. Install the [Stylus](https://add0n.com/stylus.html) extension for Chrome, Firefox or Opera.
-2. Browse to either the [light](https://userstyles.org/styles/133201/hacker-news-readable) or dark theme on userstyles.org and install it.
-	- You may alternatively install either theme manually with Stylus by going to `Manage > Write new style > Import` and copy pasting the code from either respective [light](hacker-news-readable-light.css) or [dark](hacker-news-readable-dark.css) `.css` file.
+2. Install either theme by clicking either [light](modern-hacker-news-light.user.css) or [dark](modern-hacker-news-dark.user.css) `.user.css` file.
 3. Give the style a name, e.g. `Hacker News Readable (Light)` or `Hacker News Readable (Dark)`.
