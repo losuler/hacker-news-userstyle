@@ -1,6 +1,6 @@
 # Modern Hacker News Userstyle
 
-Forked from https://github.com/Gigacore/hackernews-userstyles.
+This is based on a fork from https://github.com/Gigacore/hackernews-userstyles (the repo this was originally forked from seems to no longer exist) to fix some issues it had.
 
 ![](modern-hacker-news-light.png)
 &nbsp;
