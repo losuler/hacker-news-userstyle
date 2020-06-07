@@ -4,9 +4,9 @@ It's not a secret that [Hacker News](https://news.ycombinator.com) is a bit... d
 
 Forked from https://github.com/Gigacore/hackernews-userstyles.
 
-![](hacker-news-readable-light.png)
+![](modern-hacker-news-light.png)
 &nbsp;
-![](hacker-news-readable-dark.png)
+![](modern-hacker-news-dark.png)
 
 ## Installation
 
