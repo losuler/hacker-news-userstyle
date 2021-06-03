@@ -112,7 +112,7 @@ table {
 .votelinks a {
   display: block;
   position: relative;
-  left: -4px;
+  left: -12px;
   top: -2px;
 }
 
@@ -150,11 +150,11 @@ table {
 }
 
 .athing td {
-  padding: 16px 0 4px;
+  padding: 16px 0 10px;
 }
 
 .athing .title:first-child {
-  padding-left: 20px;
+  padding-left: 30px;
 }
 
 .athing .title a:link,
