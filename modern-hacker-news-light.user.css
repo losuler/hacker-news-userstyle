@@ -267,4 +267,7 @@ input, select, textarea {
   outline: none;
 }
 
+img[src="y18.svg"] {
+  display: none !important;
+}
 }
