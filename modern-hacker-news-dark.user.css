@@ -4,7 +4,7 @@
 @homepageURL  https://github.com/losuler/hacker-news-userstyle
 @description  A modern dark Hacker News userstyle
 @updateURL    https://github.com/losuler/hacker-news-userstyle/blob/master/modern-hacker-news-dark.user.css
-@version      1.0.0
+@version      1.1.0
 @preprocessor stylus
 ==/UserStyle== */
 @-moz-document url-prefix("https://news.ycombinator.com") {
